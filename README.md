@@ -97,7 +97,7 @@ DATABASE-
 
 # INSTRUCTIONS TO SET UP PROJECT LOCALLY :
 
-
+* Clone the above project into your local repository (Clone link : https://github.com/sushanthreddy009/sushanthreddy009-AWS-Cloud-Infrastructure-Deployment.git)
 * Go to the folder where the project is cloned, check for package.json file where all the dependencies for the project is mentioned.
 * Install node.js in your system. Link for iinstalling- (https://nodejs.org/en/).
 * We have included "aws-sdk" for accessing S3 from amazon, so kindly add that as a dependency in package.json file.
