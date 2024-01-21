@@ -29,7 +29,6 @@ stored in database.
 application.
 ![cloud 1](https://user-images.githubusercontent.com/31361652/31910363-1812395e-b7f2-11e7-98b6-4281bf053239.PNG)
   * ABOUT ME Page: For user details and general hobbies and details about user.
-  ![cloud 3](https://user-images.githubusercontent.com/31361652/31910388-2bde37b2-b7f2-11e7-8dee-e1475c5761a4.PNG)
   * UPLOAD OPTION: For the user to upload files for storage in Amazon S3.
   * RETRIEVE ALL FILES OPTION: to retrieve any previously uploaded file
   * DELETE OPTION: To delete files no longer required by user.
