@@ -7,8 +7,6 @@
  # INTRODUCTION 
 
    * University Name: https://mituniversity.ac.in/
-
-   * Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html/)
  
    * Student: [Sushanth Reddy](https://www.linkedin.com/in/sushanth-reddy-86b139239/)
    
