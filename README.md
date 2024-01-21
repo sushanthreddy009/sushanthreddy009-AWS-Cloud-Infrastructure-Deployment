@@ -6,7 +6,7 @@
 
  # INTRODUCTION 
 
-   * University Name: (https://mituniversity.ac.in/)
+   * University Name: https://mituniversity.ac.in/
 
    * Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html/)
  
