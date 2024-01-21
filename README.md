@@ -6,13 +6,11 @@
 
  # INTRODUCTION 
 
-   * University Name: http://www.sjsu.edu/
+   * University Name: (https://mituniversity.ac.in/)
 
    * Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html/)
-
-   * Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
-   
-   * Student: [Sushanth Reddy]([https://www.linkedin.com/in/anu-rajashekar-4b950092])
+ 
+   * Student: [Sushanth Reddy](https://www.linkedin.com/in/sushanth-reddy-86b139239/)
    
    # PROJECT IDEA
 
